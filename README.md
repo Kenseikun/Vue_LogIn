@@ -35,3 +35,6 @@ npm run lint
 ### Customize configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+<a href='https://www.freepik.com/vectors/business'>Business vector created by freepik - www.freepik.com</a>
