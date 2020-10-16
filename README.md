@@ -2,7 +2,7 @@
 
 [Click to check this project...](https://vueloginmockup.herokuapp.com/)
 
-<img src="src/img/loginMockup.jpg" height="500">
+<img src="src/img/loginMockup.jpg" height="300">
 
 // no media/simple logic
 
